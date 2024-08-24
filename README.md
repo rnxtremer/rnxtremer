@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rnxtremer&label=Profile%20views&color=0e75b6&style=flat" alt="rnxtremer" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rnxtremer" alt="rnxtremer" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rn_xtremer_" target="blank"><img src="https://img.shields.io/twitter/follow/rn_xtremer_?logo=twitter&style=for-the-badge" alt="rn_xtremer_" /></a> </p>
 
